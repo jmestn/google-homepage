@@ -1,0 +1,21 @@
+#logo, #search-box, #buttons {
+    text-align: center;
+
+}
+
+#logo {
+    position: relative;
+    top: 200px;
+}
+
+#search-box {
+    position: relative;
+    top: 225px;
+
+}
+
+#buttons {
+    position: relative;
+    top: 245px;
+
+}
